@@ -94,6 +94,6 @@
 ## 👤 Author
 
 **Chandana Vilasagaram**
-🔗 [LinkedIn](https://www.linkedin.com/in/chandanavilasagaram/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandanavilasagaram/)
 - 🐙 [GitHub](https://github.com/Chandana1707)
 
