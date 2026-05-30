@@ -1,7 +1,7 @@
 
 ## 🖥️ Website Preview
 
-[![IronEdge Fitness Preview](./preview (2).png)](https://ironedgefitness.lovable.app/)
+(./preview(2).png)]
 
 ---
 
@@ -95,4 +95,5 @@
 
 **Chandana Vilasagaram**
 🔗 [LinkedIn](https://www.linkedin.com/in/chandanavilasagaram/)
+- 🐙 [GitHub](https://github.com/Chandana1707)
 
