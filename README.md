@@ -1,7 +1,7 @@
 
 ## 🖥️ Website Preview
 
-[![IronEdge Fitness Preview](./preview.png)]
+![IronEdge Fitness Preview](./preview.png)
 
 
 
