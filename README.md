@@ -1,7 +1,8 @@
 
 ## 🖥️ Website Preview
 
-(./preview(2).png)]
+[![IronEdge Fitness Preview](./preview (2).png)]
+
 
 ---
 
@@ -66,7 +67,7 @@
 ## 📦 Deliverables (Task 3)
 
 - ✅ Live website demo → [ironedgefitness.lovable.app](https://ironedgefitness.lovable.app/)
-- ✅ GitHub repository → *(this repo)*
+- ✅ GitHub repository → *((https://github.com/Chandana1707/FUTURE_FS_03))*
 - ✅ Pitch explanation
 
 ---
