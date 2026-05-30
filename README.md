@@ -1,7 +1,7 @@
 
 ## 🖥️ Website Preview
 
-[![IronEdge Fitness Preview](./preview(2).png)](https://ironedgefitness.lovable.app/)
+[![IronEdge Fitness Preview](./preview (2).png)](https://ironedgefitness.lovable.app/)
 
 ---
 
