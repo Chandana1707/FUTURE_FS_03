@@ -1,3 +1,6 @@
+# 🏋️ IronEdge Fitness — Gym Website & Business Pitch
+
+A professional gym website built to showcase services, membership plans, and trainer profiles for a local fitness studio — developed as part of Task 3 of the Future Interns Full Stack Web Development Internship, pitched as a live demo to a real business owner.
 
 ## 🖥️ Website Preview
 
